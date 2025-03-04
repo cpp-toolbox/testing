@@ -1,0 +1,6 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "src/utility/limited_vector"]
+	path = src/utility/limited_vector
+	url = git@github.com:cpp-toolbox/limited_vector.git

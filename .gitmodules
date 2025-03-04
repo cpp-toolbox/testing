@@ -4,3 +4,9 @@
 [submodule "src/utility/limited_vector"]
 	path = src/utility/limited_vector
 	url = git@github.com:cpp-toolbox/limited_vector.git
+[submodule "src/utility/fixed_size_array_tracker"]
+	path = src/utility/fixed_size_array_tracker
+	url = git@github.com:cpp-toolbox/fixed_size_array_tracker.git
+[submodule "src/utility/print_utils"]
+	path = src/utility/print_utils
+	url = git@github.com:cpp-toolbox/print_utils.git

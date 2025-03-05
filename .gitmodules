@@ -10,3 +10,6 @@
 [submodule "src/utility/print_utils"]
 	path = src/utility/print_utils
 	url = git@github.com:cpp-toolbox/print_utils.git
+[submodule "src/input/mouse"]
+	path = src/input/mouse
+	url = git@github.com:cpp-toolbox/mouse.git

@@ -13,3 +13,9 @@
 [submodule "src/input/mouse"]
 	path = src/input/mouse
 	url = git@github.com:cpp-toolbox/mouse.git
+[submodule "src/utility/math_utils"]
+	path = src/utility/math_utils
+	url = git@github.com:cpp-toolbox/math_utils.git
+[submodule "src/utility/transform"]
+	path = src/utility/transform
+	url = git@github.com:cpp-toolbox/transform.git
